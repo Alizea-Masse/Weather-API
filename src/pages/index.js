@@ -3,7 +3,7 @@ import Image from "next/image";
 import axios from 'axios';
 import { useState } from "react";
 import { RiSearchEyeFill } from "react-icons/ri";
-import meteoAli from '../../public/images/meteoAli.png'
+import meteoAli from '../../public/images/meteoali.png'
 import Spinner from '../components/Spinner'
 import Weather from '../components/Weather'
 
