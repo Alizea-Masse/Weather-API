@@ -32,6 +32,10 @@ module.exports = {
         'BebasNeue' : ['"Bebas Neue"', 'cursive'],
       }
     },
-  }
+  },
+  plugins: [
+    require('@tailwindcss/forms'),
+    // ...
+  ],
   
 }
