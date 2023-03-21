@@ -32,6 +32,6 @@ module.exports = {
         'BebasNeue' : ['"Bebas Neue"', 'cursive'],
       }
     },
-  },
-  plugins: [require('daisyui')]
+  }
+  
 }
